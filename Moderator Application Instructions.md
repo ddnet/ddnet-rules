@@ -6,7 +6,7 @@
 - Applications that have been copied/plagiarized from others will be deleted without you being notified.
 
 ### Requirements:
-Note: Before applying you must meet these requirements and comply with the [Moderator Guidelines](link to Moderator Guidelines).
+Note: Before applying you must meet these requirements and comply with the [Moderator Guidelines](https://github.com/ddnet/ddnet-rules/blob/master/Moderator%20Guidelines.md).
 - Minimum 16 years of age
 - Fluency in the main server language to which you are applying (English for GER)
 - High in-game activity
