@@ -42,7 +42,7 @@ Please help us keep DDNet's Testing process as smooth as possible. Your cooperat
 7. **Avoid chat-spam** caused by carelessly placed on/off-tiles as well as **[gametile-spam](https://forum.ddnet.tw/viewtopic.php?f=16&t=3788).**
 8. Only **force a certain team size if the map requires it** (e.g. if it contains a lot switches, is heavy cheatable with many players), not as an excuse for tight mapping.
 
-Make sure that your map works, the design is done, and the common problems listed above are solved. When you are ready to release your map, send it to us by making a thread in this forum following the [section rules](link to section rules).
+Make sure that your map works, the design is done, and the common problems listed above are solved. When you are ready to release your map, send it to us by making a thread in this forum following the [section rules](Section%20Rules%20(Map%20Testing).md).
 
 If you want to release your map on DDNet **you must follow these rules**. If you do not follow them, your map will be **declined**. There may be special cases of maps in which single rules might be in conflict with the general concept of the map or its technical realization. In such cases you should contact a Tester to check out whether an exception may be made.
 

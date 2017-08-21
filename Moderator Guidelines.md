@@ -15,7 +15,7 @@ Note:
 - Staying up to date about the community - this requires checking the forum on a regular basis.
 - Answering general user questions or directing them to the responsible person.
 
-For more detailed information about how to enforce your duties read [Moderation Procedure](https://github.com/ddnet/ddnet-rules/blob/master/Moderation%20Procedure.md).
+For more detailed information about how to enforce your duties read [Moderation Procedure](Moderation%20Procedure.md).
 
 If a Moderator fails to meet the expectations placed on them, they may be removed from their staff rank and responsibilities. They are also subject to the same disciplinary actions if they break any of the initial user rules.
 We understand that Moderators are human and that they may do some things that upset players. If you believe a Moderator misbehaved contact a Council member or an Administrator.
