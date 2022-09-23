@@ -1,6 +1,6 @@
 # Mapper Rules
 
-Please help us keep DDNet's Testing process as smooth as possible. Your cooperation will greatly benefit Testers, mappers, players and yourself. Check out [these tips](https://forum.ddnet.tw/viewtopic.php?f=9&t=5290) before posting your map.
+Please help us keep DDNet's Testing process as smooth as possible. Your cooperation will greatly benefit Testers, mappers, players and yourself. Check out [these tips](https://forum.ddnet.org/viewtopic.php?f=9&t=5290) before posting your map.
 
 ### Content
 
@@ -39,15 +39,15 @@ Please help us keep DDNet's Testing process as smooth as possible. Your cooperat
 
 5. Your **start area** should be **big enough** for at least 10 players to start.
 6. **Do not** rely on a **single spawn entity** (except on Solo maps). At least 5 are needed.
-7. **Avoid chat-spam** caused by carelessly placed on/off-tiles as well as **[gametile-spam](https://forum.ddnet.tw/viewtopic.php?f=16&t=3788).**
+7. **Avoid chat-spam** caused by carelessly placed on/off-tiles as well as **[gametile-spam](https://forum.ddnet.org/viewtopic.php?f=16&t=3788).**
 8. Only **force a certain team size if the map requires it** (e.g. if it contains a lot switches, is heavy cheatable with many players), not as an excuse for tight mapping.
 
 Make sure that your map works, the design is done, and the common problems listed above are solved. When you are ready to release your map, send it to us by making a thread in this forum following the [section rules](Section%20Rules%20(Map%20Testing).md).
 
 If you want to release your map on DDNet **you must follow these rules**. If you do not follow them, your map will be **declined**. There may be special cases of maps in which single rules might be in conflict with the general concept of the map or its technical realization. In such cases you should contact a Tester to check out whether an exception may be made.
 
-Original version by [deen](https://forum.ddnet.tw/memberlist.php?mode=viewprofile&u=2).
+Original version by [deen](https://forum.ddnet.org/memberlist.php?mode=viewprofile&u=2).
 
-Second version by [RayB.](https://forum.ddnet.tw/memberlist.php?mode=viewprofile&u=380).
+Second version by [RayB.](https://forum.ddnet.org/memberlist.php?mode=viewprofile&u=380).
 
-Third version based on rules by [Soreu](https://forum.ddnet.tw/memberlist.php?mode=viewprofile&u=247), [hi_leute_gll](https://forum.ddnet.tw/memberlist.php?mode=viewprofile&u=197) & [Knight](https://forum.ddnet.tw/memberlist.php?mode=viewprofile&u=436), edited by [jao](https://forum.ddnet.tw/memberlist.php?mode=viewprofile&u=1291), [hi_leute_gll](https://forum.ddnet.tw/memberlist.php?mode=viewprofile&u=197) & [Oblique.](https://forum.ddnet.tw/memberlist.php?mode=viewprofile&u=531)
+Third version based on rules by [Soreu](https://forum.ddnet.org/memberlist.php?mode=viewprofile&u=247), [hi_leute_gll](https://forum.ddnet.org/memberlist.php?mode=viewprofile&u=197) & [Knight](https://forum.ddnet.org/memberlist.php?mode=viewprofile&u=436), edited by [jao](https://forum.ddnet.org/memberlist.php?mode=viewprofile&u=1291), [hi_leute_gll](https://forum.ddnet.org/memberlist.php?mode=viewprofile&u=197) & [Oblique.](https://forum.ddnet.org/memberlist.php?mode=viewprofile&u=531)

@@ -43,12 +43,12 @@ Please try to spend at least a few hours per week on the server and 30 minutes o
 *Answering general user questions or directing them to the responsible person:*
 
 For most questions there is a subforum where people can address their specific questions or issues. If someone wants to take their question up to a responsible person in private, consider the following list. If the requested topic is not covered, contact an Administrator:
-- Technical client or server issues: [Tech Administrators](https://forum.ddnet.tw/memberlist.php?mode=group&g=21) (mostly direct them to ddnet.tw/support)
-- Forum: [Index](https://forum.ddnet.tw/memberlist.php?mode=viewprofile&u=53) or any [Tech Administrator](https://forum.ddnet.tw/memberlist.php?mode=group&g=21) (mostly direct them to ddnet.tw/support)
-- Mapping and Map Testing: [Welf](https://forum.ddnet.tw/memberlist.php?mode=viewprofile&u=142), [RayB.](https://forum.ddnet.tw/memberlist.php?mode=viewprofile&u=380), [jao](https://forum.ddnet.tw/memberlist.php?mode=viewprofile&u=1291) or any [Tester](https://forum.ddnet.tw/memberlist.php?mode=group&g=25)
-- Map bugs and cheats on released maps: [aaa](https://forum.ddnet.tw/memberlist.php?mode=viewprofile&u=54) (In-Game: snailx3)
-- Future map release dates: [aaa](https://forum.ddnet.tw/memberlist.php?mode=viewprofile&u=54) (In-Game: snailx3)
-- Deleted ranks: [aaa](https://forum.ddnet.tw/memberlist.php?mode=viewprofile&u=54) (In-Game: snailx3)
-- Tournaments: [RayB.](https://forum.ddnet.tw/memberlist.php?mode=viewprofile&u=380), [deen](https://forum.ddnet.tw/memberlist.php?mode=viewprofile&u=2)
-- Mod Complaints: Council ([aaa](https://forum.ddnet.tw/memberlist.php?mode=viewprofile&u=54) (In-Game: snailx3), [gdin](https://forum.ddnet.tw/memberlist.php?mode=viewprofile&u=392) , [RayB.](https://forum.ddnet.tw/memberlist.php?mode=viewprofile&u=380), [Hidden-Ezio](https://forum.ddnet.tw/memberlist.php?mode=viewprofile&u=64), [jao](https://forum.ddnet.tw/memberlist.php?mode=viewprofile&u=1291)) or any [Administrator](https://forum.ddnet.tw/memberlist.php?mode=group&g=5)
-- Skins: [Skin Database Crew](https://forum.ddnet.tw/memberlist.php?mode=group&g=33)
+- Technical client or server issues: [Tech Administrators](https://forum.ddnet.org/memberlist.php?mode=group&g=21) (mostly direct them to ddnet.org/support)
+- Forum: [Index](https://forum.ddnet.org/memberlist.php?mode=viewprofile&u=53) or any [Tech Administrator](https://forum.ddnet.org/memberlist.php?mode=group&g=21) (mostly direct them to ddnet.org/support)
+- Mapping and Map Testing: [Welf](https://forum.ddnet.org/memberlist.php?mode=viewprofile&u=142), [RayB.](https://forum.ddnet.org/memberlist.php?mode=viewprofile&u=380), [jao](https://forum.ddnet.org/memberlist.php?mode=viewprofile&u=1291) or any [Tester](https://forum.ddnet.org/memberlist.php?mode=group&g=25)
+- Map bugs and cheats on released maps: [aaa](https://forum.ddnet.org/memberlist.php?mode=viewprofile&u=54) (In-Game: snailx3)
+- Future map release dates: [aaa](https://forum.ddnet.org/memberlist.php?mode=viewprofile&u=54) (In-Game: snailx3)
+- Deleted ranks: [aaa](https://forum.ddnet.org/memberlist.php?mode=viewprofile&u=54) (In-Game: snailx3)
+- Tournaments: [RayB.](https://forum.ddnet.org/memberlist.php?mode=viewprofile&u=380), [deen](https://forum.ddnet.org/memberlist.php?mode=viewprofile&u=2)
+- Mod Complaints: Council ([aaa](https://forum.ddnet.org/memberlist.php?mode=viewprofile&u=54) (In-Game: snailx3), [gdin](https://forum.ddnet.org/memberlist.php?mode=viewprofile&u=392) , [RayB.](https://forum.ddnet.org/memberlist.php?mode=viewprofile&u=380), [Hidden-Ezio](https://forum.ddnet.org/memberlist.php?mode=viewprofile&u=64), [jao](https://forum.ddnet.org/memberlist.php?mode=viewprofile&u=1291)) or any [Administrator](https://forum.ddnet.org/memberlist.php?mode=group&g=5)
+- Skins: [Skin Database Crew](https://forum.ddnet.org/memberlist.php?mode=group&g=33)

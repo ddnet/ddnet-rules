@@ -16,4 +16,4 @@ Naufrage by SickCunt [Brutal]
 
 Read and follow the [Mapper Rules](Mapper%20Rules.md) before posting your map.
 
-Written by [Soreu](https://forum.ddnet.tw/memberlist.php?mode=viewprofile&u=247), [hi_leute_gll](https://forum.ddnet.tw/memberlist.php?mode=viewprofile&u=197) & [Knight](https://forum.ddnet.tw/memberlist.php?mode=viewprofile&u=436), edited by [jao](https://forum.ddnet.tw/memberlist.php?mode=viewprofile&u=1291) & [Oblique.](https://forum.ddnet.tw/memberlist.php?mode=viewprofile&u=531)
+Written by [Soreu](https://forum.ddnet.org/memberlist.php?mode=viewprofile&u=247), [hi_leute_gll](https://forum.ddnet.org/memberlist.php?mode=viewprofile&u=197) & [Knight](https://forum.ddnet.org/memberlist.php?mode=viewprofile&u=436), edited by [jao](https://forum.ddnet.org/memberlist.php?mode=viewprofile&u=1291) & [Oblique.](https://forum.ddnet.org/memberlist.php?mode=viewprofile&u=531)

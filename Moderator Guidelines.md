@@ -1,7 +1,7 @@
 # Moderator Guidelines
 
 As a DDNet Moderator you are to set an example for others. Please allow the community to take you seriously. In order to ensure that the community and its servers run smoothly, you must follow and enforce the rules that we set forth. As a Moderator you agree to comply with the following:
-- Have a full understanding of the rules ([User Guidelines](https://forum.ddnet.tw/viewtopic.php?f=3&t=2199) and in-game rules)
+- Have a full understanding of the rules ([User Guidelines](https://forum.ddnet.org/viewtopic.php?f=3&t=2199) and in-game rules)
 - Never abuse your powers
 - Maintain fair judgement and treatment to all
 
